@@ -3,6 +3,8 @@
 ; SICP
 ; Execise 1.5, p. 27.
 
+;Speaking 
+
 (define (p) (p))
 
 (define (test x y)
